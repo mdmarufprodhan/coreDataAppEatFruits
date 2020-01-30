@@ -2,9 +2,8 @@
 //  AppDelegate.swift
 //  EatMoreVegetable
 //
-//  Created by Brian Advent on 26/02/2017.
-//  Copyright © 2017 Brian Advent. All rights reserved.
-//
+//  Created by Md Maruf Prodhan on 1/1/20.
+//  Copyright © 2020 Md Maruf Prodhan. All rights reserved.//
 
 import UIKit
 import CoreData
